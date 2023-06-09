@@ -1,0 +1,9 @@
+.tabla-container {
+    max-height: 450px; /* Ajusta la altura máxima deseada */
+    overflow-y: auto;
+  }
+.principal{
+    width: 100%;
+    height: 500px;
+    display: inline;
+}
